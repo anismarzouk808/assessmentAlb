@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeBonCoin</string>
+    <string name="title_activity_list_album">ListAlbumActivity</string>
+    <string name="album_item_thumbnail">thumbnail</string>
+</resources>
